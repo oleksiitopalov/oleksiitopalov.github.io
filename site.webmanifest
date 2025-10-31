@@ -1,0 +1,12 @@
+{
+  "name": "SYN.AI",
+  "short_name": "SYN.AI",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0f0a",
+  "theme_color": "#0a0f0a",
+  "icons": [
+    { "src": "./favicon.ico", "sizes": "48x48 64x64 128x128 256x256", "type": "image/x-icon" }
+  ]
+}
